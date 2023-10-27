@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Tilt+Neon&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'DM+Serif+Display', sans-serif;
+	font-size: 18px;
+	color: white;
+	margin: 0px;
+	background-color: #443C68;
+}
+
+h1, h2, h3 {
+	font-family: 'Tilt+Neon', sans-serif;
+	font-weight: bold;
+}
+
+h2{
+	font-size: 40px;
+}
+
+a {
+	text-decoration: none;
+}
